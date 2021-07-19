@@ -30,7 +30,7 @@ Dica : Para criação de arquivos vazios você pode utilizar o comando touch nom
 
 13-Limpe o terminal.
 
-###### Para os exercícios 14 e 15, crie, de forma manual na parte gráfica do seu sistema operacional (através do mouse), um arquivo de texto com o conteúdo abaixo, chamado skills.txt :
+#### Para os exercícios 14 e 15, crie, de forma manual na parte gráfica do seu sistema operacional (através do mouse), um arquivo de texto com o conteúdo abaixo, chamado skills.txt :
 
 Internet
 Unix
@@ -63,7 +63,7 @@ curl -o countries.txt "https://gist.githubusercontent.com/kalinchernev/486393efc
 
 6-Busque novamente por brazil , mas agora utilizando o lower case .
 
-###### Para os próximos exercícios, crie um novo arquivo chamado phrases.txt e adicione algumas frases à sua escolha. Não precisa criar o arquivo pelo terminal.
+#### Para os próximos exercícios, crie um novo arquivo chamado phrases.txt e adicione algumas frases à sua escolha. Não precisa criar o arquivo pelo terminal.
 
 7-Busque pelas frases que não contenham a palavra fox .
 
