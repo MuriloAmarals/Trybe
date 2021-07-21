@@ -4,7 +4,7 @@ No dia de hoje, aprendemos alguns comandos para usar no Git e GitHub, tendo que 
 
 ![warning](https://github.githubassets.com/images/icons/emoji/unicode/26a0.png)  **Para fazer os exercícios a seguir, você deve utilizar o projeto com o texto no arquivo  `.txt`  , localizado dentro do diretório do dia anterior, crie uma cópia para usar no dia de hoje.**
 
-Dessa vez, cada um deve fazer os exercícios em seu computador, ok? Vamos lá!  ![yum](https://github.githubassets.com/images/icons/emoji/unicode/1f60b.png)
+Dessa vez, cada um deve fazer os exercícios em seu computador, ok? Vamos lá!  
 
 1.  Navegue até a raiz do projeto com o arquivo .txt;
     
@@ -58,7 +58,7 @@ O que eu vou aprender na Trybe:
 9.  No mesmo arquivo  `.txt`  que você modificou no  _passo 4_  , também ao final da sua lista de habilidades, adicione mais um aprendizado que você terá nos próximos blocos:
     
 
--   Atenção! Aqui o arquivo não terá as alterações feitas anteriormente na outra branch  ![wink](https://github.githubassets.com/images/icons/emoji/unicode/1f609.png);
+-   Atenção! Aqui o arquivo não terá as alterações feitas anteriormente na outra branch  
     
 -   Faça um  `git add nome-do-arquivo.extensao`  ;
     
