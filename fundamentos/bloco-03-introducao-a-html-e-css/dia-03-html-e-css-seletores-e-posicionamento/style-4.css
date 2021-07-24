@@ -1,0 +1,46 @@
+.cor-fundo{
+    background-color: yellow;
+}
+.cor-par{
+    color: green;
+}
+.cor-impar{
+    text-transform: uppercase;
+}
+h1, h3{
+    color: red;
+}
+h1 em{
+    font-size: 40px;
+    border: 1px solid black;
+}
+li{
+    font-size: 20px ;
+}
+li em{
+    font-weight: bold;
+}
+.cor-azul{
+    color: blue;
+}
+.fundo-rosa{
+    background-color: pink;
+}
+.negrito:hover{
+    font-weight: bold;
+}
+.stack:hover{
+    color: orange;
+}
+.wschools:hover{
+    color: green;
+}
+.mdn:hover{
+    color: black;
+}
+.dev:hover{
+    color: yellow;
+}
+.trybe:hover{
+    color: green;
+}
