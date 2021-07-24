@@ -1,0 +1,26 @@
+div:hover {
+    padding: 10px;
+}
+.div1 {
+color: red;
+}
+
+.div2 {
+color: purple;
+}
+
+.div3 {
+color: orangered;
+}
+
+.div4 {
+color: darkred;
+}
+
+.div5 {
+color: lightsteelblue;
+}
+
+.italico {
+    font-style: italic;
+}
