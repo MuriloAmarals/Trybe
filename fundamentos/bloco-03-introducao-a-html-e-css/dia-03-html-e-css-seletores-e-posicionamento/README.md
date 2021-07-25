@@ -14,7 +14,7 @@ Você provavelmente não conhece algumas das propriedades utilizadas nesse códi
 **2** - Posicione a tag p para que fique dentro do balão de fala.
 
 **3** - Posicione o balão para que se torne uma fala de Bowser.
- -----------------------------------------------------------------------------------------------------------------------------------------------------------
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 **1** - Adicione uma lista ordenada dos 3 melhores sites que você conhece.
 
 **2** - Crie um arquivo no mesmo diretório e nomeie-o de 'style.css'.
@@ -28,7 +28,7 @@ Você provavelmente não conhece algumas das propriedades utilizadas nesse códi
 **4** - Adicione uma lista não ordenada com, pelo menos, 3 características que você gosta.
 
 **5** - No 'style.css', adicione a propriedade 'list-style: none' para ambas as listas.
- ------------------------------------------------------------------------------------------------------------------------------------------------------------
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 **1** - Estilize as divs para que, ao passar o cursor por cima das mesmas, elas ganhem uma borda.
 
 **2** - Faça cada div ter uma cor própria.
@@ -40,7 +40,7 @@ Você provavelmente não conhece algumas das propriedades utilizadas nesse códi
 **5** - Deixe as tags ímpares  `h3`  com o texto em itálico.
 
 -> Crie o arquivo  `style.css`  e resolva os seguintes exercícios:
- ------------------------------------------------------------------------------------------------------------------------------------------------------------
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 **1** - Faça com que todos os itens de Listas Ordenadas tenham uma cor de fundo amarela. Se a numeração do item for PAR, faça a cor de fonte ser verde. Se o número for considerado ÍMPAR, utilize a propriedade text-transform para deixar o texto maiúsculo. (Dica: combinar classes pode ser útil aqui).
 
 **2** - Faça todas as tags Header (h1, h2...) possuírem cor de fonte vermelha e, se alguma delas estiver em itálico, aumente seu tamanho para 40px e acrescente uma borda de 1px preta e sólida.
