@@ -1,0 +1,36 @@
+h1{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    text-align: center;
+}
+#descricao{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+    top: 30%;
+    right: 11%;
+}
+body{
+    background-color: gainsboro;
+    padding: 2%;
+}
+.list-size {
+    font-size: 18px;
+}
+.list-size2{
+    font-size: 16px;
+}
+#murilo{
+    float: left;
+    padding: 10px;
+    background-color: limegreen;
+}
+.img-container{
+    height: 420px;
+    position: relative;
+}
+.passar-mouse:hover{
+    color: limegreen;
+    margin: 5px;
+}
+ul li:nth-child(odd){
+    background-color: whitesmoke;
+}
