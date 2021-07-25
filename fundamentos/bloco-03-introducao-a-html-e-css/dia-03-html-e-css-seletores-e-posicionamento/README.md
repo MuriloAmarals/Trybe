@@ -31,7 +31,7 @@ Você provavelmente não conhece algumas das propriedades utilizadas nesse códi
 
 **5** - No 'style.css', adicione a propriedade 'list-style: none' para ambas as listas.
 
- /./././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././
+ /././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././
  
 **1** - Estilize as divs para que, ao passar o cursor por cima das mesmas, elas ganhem uma borda.
 
@@ -45,7 +45,7 @@ Você provavelmente não conhece algumas das propriedades utilizadas nesse códi
 
 -> Crie o arquivo  `style.css`  e resolva os seguintes exercícios:
 
-/./././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././
+/././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././
 
 **1** - Faça com que todos os itens de Listas Ordenadas tenham uma cor de fundo amarela. Se a numeração do item for PAR, faça a cor de fonte ser verde. Se o número for considerado ÍMPAR, utilize a propriedade text-transform para deixar o texto maiúsculo. (Dica: combinar classes pode ser útil aqui).
 
