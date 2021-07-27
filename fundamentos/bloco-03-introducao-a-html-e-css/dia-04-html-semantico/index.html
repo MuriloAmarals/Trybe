@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ranking</title>
     <style>
-      h1 {
+      h1, h3{
         text-align: center;
       }
 
@@ -15,6 +15,8 @@
         height: 50px;
         text-align: center;
         width: 200px;
+        display: block;
+        margin-left: 40%
       }
 
       .second {
@@ -23,6 +25,8 @@
         height: 50px;
         text-align: center;
         width: 300px;
+        display: inline-block;
+        margin-left: 25%;
       }
 
       .third {
@@ -31,6 +35,19 @@
         height: 50px;
         text-align: center;
         width: 300px;
+        display: inline-block;
+      }
+        .premios li{
+            display: inline-block;     
+      }
+      .premio1{
+          margin-left: 25%;
+      }
+      .premio2{
+          margin-left: 25%;
+      }
+      .premio3{
+          margin-left: 25%;
       }
 
     </style>
@@ -40,7 +57,7 @@
       <h1>Hackathon Results</h1>
     </header>
     <section>
-      <ul>
+      <ul class="podio">
         <li class="first">1º - Equipe 1</li>
         <li class="second">2º - Equipe 2</li>
         <li class="third">3º - Equipe 3</li>
@@ -48,18 +65,18 @@
     </section>
     <section>
       <h3>Premiação Primeiro Lugar:</h3>
-      <ul>
-        <li>| R$ 1000,00 por integrante da equipe |</li>
+      <ul class="premios">
+        <li class="premio1">| R$ 1000,00 por integrante da equipe |</li>
         <li>| Bootcamp de 2 meses com possibilidade de contratação |</li>
       </ul>
       <h3>Premiação Segundo Lugar:</h3>
-      <ul>
-        <li>| R$ 600,00 por integrante da equipe |</li>
+      <ul class="premios">
+        <li class="premio2">| R$ 600,00 por integrante da equipe |</li>
         <li>| Participação no processo seletivo para o Bootcamp |</li>
       </ul>
       <h3>Premiação Terceiro Lugar:</h3>
-      <ul>
-        <li>| R$ 300,00 por integrante da equipe |</li>
+      <ul class="premios">
+        <li class="premio3">| R$ 300,00 por integrante da equipe |</li>
         <li>| Participação no processo seletivo para o Bootcamp |</li>
       </ul>
     </section>
