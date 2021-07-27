@@ -1,0 +1,66 @@
+body {
+    background-color: rgb(253, 251, 251);
+    font-size: 16px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: chartreuse;
+    
+}
+#cabecalho {
+  top: 0px;
+  position: fixed;
+  border: 1px solid black;
+  padding: 1px;
+  margin: 10px;
+}
+table{
+  border: 1px solid;
+  width: 60%;
+  margin-left: 17%;
+}
+
+th{
+  border: 1px solid;
+  background-color: rgb(185, 182, 182);
+  font: 600;
+}
+
+td{
+  border: 1px solid;
+}
+#minha_foto{
+  border: 1px solid black;
+  padding: 10px;
+  margin: 10px;
+}
+#licoes_aprendidas{
+  border: 1px solid black;
+  padding: 1px;
+  margin: 10px;
+}
+#licoes_a_aprender{
+  border: 1px solid black;
+  padding: 1px;
+  margin: 10px;
+}
+#rodape{
+  border: 1px solid black;
+  padding: 1px;
+  margin: 10px;
+}
+aside{
+  border: 1px solid black;
+  padding: 1px;
+}
+article{
+  border: 1px solid black;
+  padding: 1px;
+}
+.lado-esquerdo{
+  display: inline-block;
+  width: 40%;
+
+}
+.lado-direito{
+display: inline-block;
+width: 40%;
+}
