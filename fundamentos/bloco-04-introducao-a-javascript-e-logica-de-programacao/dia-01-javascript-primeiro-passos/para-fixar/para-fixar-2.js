@@ -24,3 +24,4 @@ console.log(altura);
 console.log(area);
 console.log(perimetro);
 
+
