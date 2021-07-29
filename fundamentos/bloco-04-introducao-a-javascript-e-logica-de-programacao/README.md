@@ -1,1 +1,1 @@
-# Trybe
+# JavaScript e Lógica de Programação
