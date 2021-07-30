@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(127, 191, 252);
+}
+header{
+    background-color: blue;
+    padding-top: 1px;
+    border: 1px solid black;
+}
+nav li{
+    display: inline;
+    margin: 20px;
+    padding-left: 50px;
+}
+nav ul{
+    background-color: cornsilk;
+    padding: 5px;
+}
+header h1{
+    margin-left: 15px;
+}
+nav li:hover{
+    color: cyan;
+    cursor: pointer;
+}
+footer{
+    background-color: cornsilk;
+    padding: 20px;
+}
+main{
+    width: 70%;
+    display: inline-block;
+}
+h2, h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+aside{
+   display: inline-block;
+   border: 1px solid black;
+}
+h1{
+    font-size: 35px;
+}
