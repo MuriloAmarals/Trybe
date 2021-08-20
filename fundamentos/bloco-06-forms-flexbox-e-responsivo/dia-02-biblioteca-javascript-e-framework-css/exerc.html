@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formulario-curriculo</title>
+  <link href="bootstrap-5.1.0-dist/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+  <script src="jquery-3.6.0.min.js"></script>
+  <script src="bootstrap-5.1.0-dist/js/bootstrap.min.js"></script>
+  <link href="style.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" type="text/css" href="pikaday.css">
+</head>
+
+<body>
+  <header class="form-header">
+    <h1>Formulário para cadastro de currículo</h1>
+    <p>Preencha os campos abaixo.</p>
+  </header>
+  <main>
+    <form id="cv-form">
+      <div class="form-row">
+        <fieldset>
+          <div class="mb-3">
+            <label for="name">Nome: </label>
+            <input class="form-control" type="text" name="name" id="name" maxlength="40" required>
+          </div>
+          <div class="mb-3">
+            <label for="email">Endereço de e-mail: </label>
+            <input class="form-control" type="email" name="email" id="email" maxlength="50" required>
+          </div>
+          <div class="mb-3">
+            <label for="cpf-number">CPF: </label>
+            <input class="form-control" type="text" name="cpf" id="cpf-number" maxlength="11" required>
+          </div>
+          <div class="mb-3">
+            <label for="address">Endereço: </label>
+            <input class="form-control" type="text" name="address" id="address" maxlength="200" required>
+          </div>
+          <div class="mb-3">
+            <label for="city">Cidade: </label>
+            <input class="form-control" type="text" name="city" id="city" maxlength="200" required>
+          </div>
+          <div class="mb-3 input-group">
+            <label class="input-group-text" for="inputGroupSelect01">Estado</label>
+            <select class="form-select" name="state" id="state"  required>
+              <option disabled selected value>Selecione seu estado</option>
+            </select>
+          </div>
+            <div class="btn-group mb-3" role="group" aria-label="Basic radio toggle button group">  
+
+                <input type="radio" class="btn-check" name="btnradio" id="btnradio1" autocomplete="off" checked>
+                <label class="btn btn-outline-primary" for="btnradio1">Casa</label>
+              
+                <input type="radio" class="btn-check" name="btnradio" id="btnradio2" autocomplete="off">
+                <label class="btn btn-outline-primary" for="btnradio2">Apartamento</label>
+          </div>
+        </fieldset>
+        <fieldset>
+          <div class="mb-3">
+            <label for="resume" class="form-label">Resumo do currículo: </label>
+            <textarea class="form-control" id="resume" name="resume" maxlength="1000" cols="100" rows="20" required></textarea>
+          </div>
+          <div class="mb-3">
+            <label for="role">Cargo: </label>
+            <input class="form-control" type="text" name="role" id="role" maxlength="40" required>
+          </div>
+          <div class="mb-3">
+            <label for="roleDescription">Descrição do cargo: </label>
+            <input class="form-control" type="text" id="roleDescription" maxlength="500" name="roleDescription" required>
+          </div>
+          <div class="mb-3">
+            <label for="startDate">Data de início: </label>
+            <input autocomplete="off" data-validate-field="date" placeholder="DD/MM/AAAA" id="datepicker" type="text" class="form-control" name="startDate" value="" required>
+          </div>
+        </fieldset>
+        <button id="submit-button" class="btn btn-success" type="submit">Enviar</button>
+        <button id="clear-button" class="btn btn-light" type="button">Limpar</button>
+      </div>
+    </form>
+  </main>
+  <section class="form-data"></section>
+  <script src="script.js"></script>
+  <script src="just-validate.min.js"></script>
+  <script src="pikaday.js"></script>
+<script>
+    var picker = new Pikaday({ field: document.getElementById('datepicker') });
+</script>
+</body>
+
+</html>
