@@ -8,6 +8,8 @@
   <link href="bootstrap-5.1.0-dist/css/bootstrap.min.css" rel="stylesheet" type="text/css">
   <script src="jquery-3.6.0.min.js"></script>
   <script src="bootstrap-5.1.0-dist/js/bootstrap.min.js"></script>
+  <link href="style.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" type="text/css" href="pikaday.css">
 </head>
 
 <body>
@@ -69,7 +71,7 @@
           </div>
           <div class="mb-3">
             <label for="startDate">Data de início: </label>
-            <input id="eu" type="text" class="form-control" name="startDate" value="" required>
+            <input autocomplete="off" data-validate-field="date" placeholder="DD/MM/AAAA" id="datepicker" type="text" class="form-control" name="startDate" value="" required>
           </div>
         </fieldset>
         <button id="submit-button" class="btn btn-success" type="submit">Enviar</button>
@@ -79,6 +81,11 @@
   </main>
   <section class="form-data"></section>
   <script src="script.js"></script>
+  <script src="just-validate.min.js"></script>
+  <script src="pikaday.js"></script>
+<script>
+    var picker = new Pikaday({ field: document.getElementById('datepicker') });
+</script>
 </body>
 
 </html>
