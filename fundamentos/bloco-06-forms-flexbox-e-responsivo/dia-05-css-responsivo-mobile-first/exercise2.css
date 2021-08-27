@@ -130,5 +130,37 @@ footer p{
         background-color: rgb(218, 246, 250);
     }
 
-    
+    #title{
+        font-size: 40px;
+        }
+        
+        h2{
+        font-size: 32px;
+        }
+        
+        h1{
+        font-size: 32px;
+        margin: 30px 0 8px;
+        }
+        
+        p{
+        font-size: 26px;
+        margin: 15px 0 0 0;
+        }
+        
+        li{
+        font-size: 26px;
+        }
+
+        nav ul li {
+        font-size: 30px;
+        }
+        
+        h3{
+        font-size: 28px;
+        }
+        
+        footer p{
+            font-size: 24px;
+        }
 }
