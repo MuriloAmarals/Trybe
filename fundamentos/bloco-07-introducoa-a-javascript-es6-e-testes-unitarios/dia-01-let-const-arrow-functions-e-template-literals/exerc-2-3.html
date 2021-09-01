@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trybe</title>
+</head>
+<body>
+    <div>
+        <span id ="text">0</span>
+      </div>
+      <button id="button-test">click aqui!</button>
+    </body>
+    <script>
+      let clickCount = 0;
+      let counter = document.getElementById("text");
+      document.getElementById("button-test");
+      document.addEventListener("click", () => counter.innerHTML = clickCount += 1);
+    </script>
+    
+</body>
+</html>
