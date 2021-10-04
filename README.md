@@ -58,32 +58,32 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [x] 7-2: _JavaScript ES6 - Objects_
 - [x] 7-3: _Testes unitários em JavaScript_
-- [x] 7-4: _[Projeto - JavaScript Testes Unitários]()_
+- [x] 7-4: _[Projeto - JavaScript Testes Unitários](https://github.com/MuriloAmarals/Trybe/tree/main/fundamentos/bloco-07-introducoa-a-javascript-es6-e-testes-unitarios/dia-04-projeto-unit-tests)_
 
-##### Bloco 8: [Higher Order Functions do JavaScript ES6]()
+##### Bloco 8: [Higher Order Functions do JavaScript ES6](https://github.com/MuriloAmarals/Trybe/tree/main/fundamentos/bloco-08-high-order-functions-do-javascript-es6)
 
 - [x] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
 - [x] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
 - [x] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
 - [x] 8-4: _JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_
-- [x] 8-5: _[Projeto - Zoo Functions]()_
+- [x] 8-5: _[Projeto - Zoo Functions](https://github.com/MuriloAmarals/Trybe/tree/main/fundamentos/bloco-08-high-order-functions-do-javascript-es6/dia-06-projeto-zoo-functions)_
 
-##### Bloco 9: [JavaScript Assíncrono e Promises]()
+##### Bloco 9: [JavaScript Assíncrono e Promises](https://github.com/MuriloAmarals/Trybe/tree/main/fundamentos/bloco-09-javascript-assincrono-e-promises)
 
 - [x] 9-1: _JavaScript Assíncrono e Callbacks_
 - [x] 9-2: _JavaScript Promises_
-- [x] 9-3: _Projeto - Carrinho de Compras_
+- [x] 9-3: _[Projeto - Carrinho de Compras](https://github.com/MuriloAmarals/Trybe/tree/main/fundamentos/bloco-09-javascript-assincrono-e-promises/dia-03-projeto-carrinho-de-compras)_
 
-##### Bloco 10: [Testes automatizados com Jest]()
+##### Bloco 10: [Testes automatizados com Jest](https://github.com/MuriloAmarals/Trybe/tree/main/fundamentos/bloco-10-testes-automatizados-com-jest)
 
 - [x] 10-1: _Primeiros passos no Jest_
 - [x] 10-2: _Jest - Testes Assíncronos_
 - [x] 10-3: _Jest - Simulando comportamentos_
-- [x] 10-4: _Projeto - Jest Assíncrono e Mocking_
+- [x] 10-4: _[Projeto - Jest Assíncrono e Mocking](https://github.com/MuriloAmarals/Trybe/tree/main/fundamentos/bloco-10-testes-automatizados-com-jest/dia-04-projeto-jest-assincrono-e-mocking)_
 
 ## Desenvolvimento Front-end ✅
 
-##### Bloco 11: [Introdução à React]()
+##### Bloco 11: [Introdução à React](https://github.com/MuriloAmarals/Trybe/tree/main/front-end/bloco-11-introducao-a-react)
 
 - [ ] 11-1: _Introdução - Front-end_
 - [ ] 11-1: _Introdução - React_
