@@ -6,7 +6,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-## Fundamentos do Desenvolvimento Web :white_check_mark:
+## Fundamentos do Desenvolvimento Web :green_check_mark:
 
 ##### Bloco 1: [Introdução - Unix & Shell](https://github.com/MuriloAmarals/Trybe/tree/main/fundamentos/bloco-01-unix-bash-e-shell-script)
 
@@ -55,7 +55,38 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 7: [JavaScript ES6 e Testes Unitários](https://github.com/MuriloAmarals/Trybe/tree/main/fundamentos/bloco-07-introducoa-a-javascript-es6-e-testes-unitarios)
 
-- [ ] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
-- [ ] 7-2: _JavaScript ES6 - Objects_
-- [ ] 7.3: _Testes unitários em JavaScript_
-- [ ] 7.4: _[Projeto - JavaScript Testes Unitários]()_
+- [x] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
+- [x] 7-2: _JavaScript ES6 - Objects_
+- [x] 7-3: _Testes unitários em JavaScript_
+- [x] 7-4: _[Projeto - JavaScript Testes Unitários]()_
+
+##### Bloco 8: [Higher Order Functions do JavaScript ES6]()
+
+- [x] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
+- [x] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
+- [x] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
+- [x] 8-4: _JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_
+- [x] 8-5: _[Projeto - Zoo Functions]()_
+
+##### Bloco 9: [JavaScript Assíncrono e Promises]()
+
+- [x] 9-1: _JavaScript Assíncrono e Callbacks_
+- [x] 9-2: _JavaScript Promises_
+- [x] 9-3: _Projeto - Carrinho de Compras_
+
+##### Bloco 10: [Testes automatizados com Jest]()
+
+- [x] 10-1: _Primeiros passos no Jest_
+- [x] 10-2: _Jest - Testes Assíncronos_
+- [x] 10-3: _Jest - Simulando comportamentos_
+- [x] 10-4: _Projeto - Jest Assíncrono e Mocking_
+
+## Desenvolvimento Front-end :green_check_mark:
+
+##### Bloco 11: [Introdução à React]()
+
+- [ ] 11-1: _Introdução - Front-end_
+- [ ] 11-1: _Introdução - React_
+- [ ] 11-1: _'Hello, world!' no React!_
+- [ ] 11-2: _Componentes React_
+- [ ] 11-3: _[Projeto - Movie Cards Library]()_
