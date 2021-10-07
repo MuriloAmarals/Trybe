@@ -91,7 +91,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 10-B-2: _Componentes React_
 - [x] 10-B-3: _[Projeto - Movie Cards Library](https://github.com/MuriloAmarals/Trybe/tree/main/front-end/bloco-10-B-introducao-a-react/dia-03-projeto-movie-card-library)_
 
-##### Bloco 9: [Componentes com Estado, Eventos e Formulários com React]()
+##### Bloco 11: [Componentes com Estado, Eventos e Formulários com React]()
 
 - [ ] 11-1: _Componentes com estado e eventos_
 - [ ] 11-2: _Formulários no React_
