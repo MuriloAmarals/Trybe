@@ -74,19 +74,25 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 9-2: _JavaScript Promises_
 - [x] 9-3: _[Projeto - Carrinho de Compras](https://github.com/MuriloAmarals/Trybe/tree/main/fundamentos/bloco-09-javascript-assincrono-e-promises/dia-03-projeto-carrinho-de-compras)_
 
-##### Bloco 10: [Testes automatizados com Jest](https://github.com/MuriloAmarals/Trybe/tree/main/fundamentos/bloco-10-testes-automatizados-com-jest)
+##### Bloco 10-A: [Testes automatizados com Jest](https://github.com/MuriloAmarals/Trybe/tree/main/fundamentos/bloco-10-testes-automatizados-com-jest)
 
-- [x] 10-1: _Primeiros passos no Jest_
-- [x] 10-2: _Jest - Testes Assíncronos_
-- [x] 10-3: _Jest - Simulando comportamentos_
-- [x] 10-4: _[Projeto - Jest Assíncrono e Mocking](https://github.com/MuriloAmarals/Trybe/tree/main/fundamentos/bloco-10-testes-automatizados-com-jest/dia-04-projeto-jest-assincrono-e-mocking)_
+- [x] 10-A-1: _Primeiros passos no Jest_
+- [x] 10-A-2: _Jest - Testes Assíncronos_
+- [x] 10-A-3: _Jest - Simulando comportamentos_
+- [x] 10-A-4: _[Projeto - Jest Assíncrono e Mocking](https://github.com/MuriloAmarals/Trybe/tree/main/fundamentos/bloco-10-testes-automatizados-com-jest/dia-04-projeto-jest-assincrono-e-mocking)_
 
 ## Desenvolvimento Front-end ✅
 
-##### Bloco 11: [Introdução à React](https://github.com/MuriloAmarals/Trybe/tree/main/front-end/bloco-11-introducao-a-react)
+##### Bloco 10-B: [Introdução à React](https://github.com/MuriloAmarals/Trybe/tree/main/front-end/bloco-11-introducao-a-react)
 
-- [ ] 11-1: _Introdução - Front-end_
-- [ ] 11-1: _Introdução - React_
-- [ ] 11-1: _'Hello, world!' no React!_
-- [ ] 11-2: _Componentes React_
-- [ ] 11-3: _[Projeto - Movie Cards Library]()_
+- [x] 10-B-1: _Introdução - Front-end_
+- [x] 10-B-1: _Introdução - React_
+- [x] 10-B-1: _'Hello, world!' no React!_
+- [x] 10-B-2: _Componentes React_
+- [x] 10-B-3: _[Projeto - Movie Cards Library](https://github.com/MuriloAmarals/Trybe/tree/main/front-end/bloco-10-B-introducao-a-react/dia-03-projeto-movie-card-library)_
+
+##### Bloco 11: [Componentes com Estado, Eventos e Formulários com React]()
+
+- [ ] 11-1: _Componentes com estado e eventos_
+- [ ] 11-2: _Formulários no React_
+- [ ] 11-3: _[Projeto - Tryunfo]()_
