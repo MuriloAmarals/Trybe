@@ -128,7 +128,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 19-1: _Utilizando Containers - Docker_
 - [x] 19-2: _Manipulação e Criação de Imagens - Docker_
 - [x] 19-3: _Orquestrando Containers com Docker Composer_
-- [x] 19-4: _[Projeto - Lista de Tarefas com Docker]()_
+- [x] 19-4: _[Projeto - Lista de Tarefas com Docker](https://github.com/MuriloAmarals/Trybe/tree/main/Projects/Front-end/sd-017-project-starwars-planets-search-murilo-amaral-starwars-project/sd-017-project-starwars-planets-search-murilo-amaral-starwars-project)_
 
 ##### Bloco 24: [ORM e Autenticação]()
 
@@ -136,18 +136,18 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 24-2: _Associations_
 - [x] 24-3: _JWT_
 - [x] 24-4: _Testando APIs com Testes de Integração_
-- [x] 24-5: _[Projeto - API de Blogs]()_
+- [x] 24-5: _[Projeto - API de Blogs](https://github.com/MuriloAmarals/Trybe/tree/main/Projects/Back-end/sd-017-project-blogs-api-murilo-amaral-santos-blogs-api/sd-017-project-blogs-api-murilo-amaral-santos-blogs-api)_
 
 ##### Bloco 25: [Deployment]()
 
 - [x] 25-1: _Infraestrutura - Deploy com Heroku_
 - [x] 25-2: _Deploy Docker & Heroku_
-- [x] 25-3: _[Projeto - Stranger Things - Front-End]()_
-- [x] 25-4: _[Projeto - Stranger Things - Back-End]()_
+- [x] 25-3: _[Projeto - Stranger Things - Front-End](https://github.com/MuriloAmarals/Trybe/tree/main/Projects/Back-end/sd-017-stranger-things-frontend-murilo-amaral-sd-017-stranger-things-frontend/sd-017-stranger-things-frontend-murilo-amaral-sd-017-stranger-things-frontend)_
+- [x] 25-4: _[Projeto - Stranger Things - Back-End](https://github.com/MuriloAmarals/Trybe/tree/main/Projects/Back-end/sd-017-stranger-things-backend-murilo-amaral-sd-017-stranger-things-backend/sd-017-stranger-things-backend-murilo-amaral-sd-017-stranger-things-backend)_
 
 ##### Bloco 28: [Projeto TFC]()
 
-- [x] 28-1: _[Projeto - Trybe Futebol Clube]()_
+- [x] 28-1: _[Projeto - Trybe Futebol Clube](https://github.com/MuriloAmarals/Trybe/tree/main/Projects/Back-end/sd-017-trybe-futebol-clube-murilo-santos-tfc/sd-017-trybe-futebol-clube-murilo-santos-tfc)_
 
 ##### Bloco 29: [Introdução a MongoDB]()
 
@@ -156,13 +156,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 29-3: _Operadores de Consulta_
 - [x] 29-4: _Updates Simples_
 - [x] 29-5: _Updates Complexos - Arrays_
-- [x] 29-6: _[Projeto - Commerce]()_
+- [x] 29-6: _[Projeto - Commerce](https://github.com/MuriloAmarals/Trybe/tree/main/Projects/Back-end/sd-017-mongodb-commerce-murilo-mongodb-commerce/sd-017-mongodb-commerce-murilo-mongodb-commerce)_
 
 ##### Bloco 30: [Mongo com Node.js e POO]()
 
 - [x] 30-1: _Mongoose e Arquitetura MSC (Model)_
 - [x] 30-2: _Mongoose e Arquitetura MSC (Service e Controller)_
-- [x] 30-3: _[Projeto - Car Shop]()_
+- [x] 30-3: _[Projeto - Car Shop](https://github.com/MuriloAmarals/Trybe/tree/main/Projects/Back-end/sd-017-project-car-shop-murilo-amaral-sd-017-project-car-shop/sd-017-project-car-shop-murilo-amaral-sd-017-project-car-shop)_
 
 
 ##### Bloco 32: [Masterclass - VPS, CI/CD]()
