@@ -145,7 +145,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 25-3: _[Projeto - Stranger Things - Front-End](https://github.com/MuriloAmarals/Trybe/tree/main/Projects/Back-end/sd-017-stranger-things-frontend-murilo-amaral-sd-017-stranger-things-frontend/sd-017-stranger-things-frontend-murilo-amaral-sd-017-stranger-things-frontend)_
 - [x] 25-4: _[Projeto - Stranger Things - Back-End](https://github.com/MuriloAmarals/Trybe/tree/main/Projects/Back-end/sd-017-stranger-things-backend-murilo-amaral-sd-017-stranger-things-backend/sd-017-stranger-things-backend-murilo-amaral-sd-017-stranger-things-backend)_
 
-##### Bloco 28: [Projeto TFC]()
+##### Bloco 28: Projeto TFC
 
 - [x] 28-1: _[Projeto - Trybe Futebol Clube](https://github.com/MuriloAmarals/Trybe/tree/main/Projects/Back-end/sd-017-trybe-futebol-clube-murilo-santos-tfc/sd-017-trybe-futebol-clube-murilo-santos-tfc)_
 
