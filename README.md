@@ -6,6 +6,12 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
+## Projetos de Destaque ⭐⭐⭐
+
+##### _[Projeto - App de Receitas]([https://github.com/MuriloAmarals/Trybe/tree/main/fundamentos/bloco-03-introducao-a-html-e-css/dia-05-projeto-lessons-learned](https://github.com/MuriloAmarals/Trybe/tree/main/Projects/sd-017-project-recipes-app-main-group-23/sd-017-project-recipes-app-main-group-23))_
+
+##### _[Projeto - App de Delivery](https://github.com/MuriloAmarals/Trybe/tree/main/Projects/sd-017-project-delivery-app-main-group-26/sd-017-project-delivery-app-main-group-26)_
+
 ## Fundamentos do Desenvolvimento Web ✅
 
 ##### Bloco 1: Introdução - Unix & Shell
