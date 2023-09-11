@@ -170,11 +170,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 30-2: _Mongoose e Arquitetura MSC (Service e Controller)_
 - [x] 30-3: _[Projeto - Car Shop]()_
 
-##### Bloco 31: [Componentes com Estado, Eventos e Formulários com React]()
-
-- [x] 31-1: _Componentes com estado e eventos_
-- [x] 31-2: _Formulários no React_
-- [x] 31-3: _[Projeto - Tryunfo]()_
 
 ##### Bloco 32: [Masterclass - VPS, CI/CD]()
 
