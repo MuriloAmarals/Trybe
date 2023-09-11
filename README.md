@@ -101,25 +101,25 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [x] 12-1: _Ciclo de vida de componentes_
 - [x] 12-2: _React Router_
-- [x] 12-3: _[Projeto - TrybeTunes]()_
+- [x] 12-3: _[Projeto - TrybeTunes](https://github.com/MuriloAmarals/Trybe/tree/main/Projects/Front-end/sd-017-project-trybetunes-murilo-amaral-trybetunes/sd-017-project-trybetunes-murilo-amaral-trybetunes)_
 
 ##### Bloco 13: [Metodologias Ágeis
 - [x] 13-1: _Metodologias Ágeis_
-- [x] 13-2: _[Projeto - FrontEnd Online Store]()_
+- [x] 13-2: _[Projeto - FrontEnd Online Store](https://github.com/MuriloAmarals/Trybe/tree/main/Projects/Front-end/sd-017-project-frontend-online-store-main-group-2/sd-017-project-frontend-online-store-main-group-2)_
 
 ##### Bloco 14: [Testes automatizados com React Testing Library]()
 
 - [x] 14-1: _Primeiros passos_
 - [x] 14-2: _Mocks e Inputs_
 - [x] 14-3: _Mocks e Inputs_
-- [x] 14-4: _[Projeto - Testes em React]()_
+- [x] 14-4: _[Projeto - Testes em React](https://github.com/MuriloAmarals/Trybe/tree/main/Projects/Front-end/sd-017-project-react-testing-library-murilo-santos-react-testing/sd-017-project-react-testing-library-murilo-santos-react-testing)_
 
 ##### Bloco 17: [Context API e React Hooks]()
 
 - [x] 17-1: _Context API do React_
 - [x] 17-2: _useState e useContext_
 - [x] 17-3: _useEffect e Hooks customizados_
-- [x] 17-4: _[Projeto - StarWars Planets Search em Context API e Hooks]()_
+- [x] 17-4: _[Projeto - StarWars Planets Search em Context API e Hooks](https://github.com/MuriloAmarals/Trybe/tree/main/Projects/Front-end/sd-017-project-starwars-planets-search-murilo-amaral-starwars-project/sd-017-project-starwars-planets-search-murilo-amaral-starwars-project)_
 
 ## Desenvolvimento Back-end ✅
 
