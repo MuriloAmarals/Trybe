@@ -145,12 +145,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 25-3: _[Projeto - Stranger Things - Front-End]()_
 - [x] 25-4: _[Projeto - Stranger Things - Back-End]()_
 
-##### Bloco 26: [Componentes com Estado, Eventos e Formulários com React]()
-
-- [x] 11-1: _Componentes com estado e eventos_
-- [x] 11-2: _Formulários no React_
-- [x] 11-3: _[Projeto - Tryunfo]()_
-
 ##### Bloco 28: [Projeto TFC]()
 
 - [x] 28-1: _[Projeto - Trybe Futebol Clube]()_
