@@ -8,12 +8,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Fundamentos do Desenvolvimento Web ✅
 
-##### Bloco 1: [Introdução - Unix & Shell](https://github.com/MuriloAmarals/Trybe/tree/main/fundamentos/bloco-01-unix-bash-e-shell-script)
+##### Bloco 1: Introdução - Unix & Shell
 
 - [x] 1-3: _Unix & Shell- Part 1_
 - [x] 1-4: _Unix & Shell- Part 2_
 
-##### Bloco 2: [Git & GitHub](https://github.com/MuriloAmarals/Trybe/tree/main/fundamentos/bloco-02-git-github-e-internet)
+##### Bloco 2: Git & GitHub
 
 - [x] 2-1: _O que é e para que serve?_
 - [x] 2-2: _Entendendo os comandos_
