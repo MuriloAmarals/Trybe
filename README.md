@@ -93,6 +93,128 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 11: [Componentes com Estado, Eventos e Formulários com React]()
 
-- [ ] 11-1: _Componentes com estado e eventos_
-- [ ] 11-2: _Formulários no React_
-- [ ] 11-3: _[Projeto - Tryunfo]()_
+- [x] 11-1: _Componentes com estado e eventos_
+- [x] 11-2: _Formulários no React_
+- [x] 11-3: _[Projeto - Tryunfo](https://github.com/MuriloAmarals/Trybe/tree/main/Projects/Front-end/Project-Tryunfo/sd-017-project-tryunfo-murilo-amaral-tryunfo-project)_
+
+##### Bloco 12: [Ciclo de Vida de Componentes e React Router]()
+
+- [x] 12-1: _Ciclo de vida de componentes_
+- [x] 12-2: _React Router_
+- [x] 12-3: _[Projeto - TrybeTunes]()_
+
+##### Bloco 13: [Metodologias Ágeis
+- [x] 13-1: _Metodologias Ágeis_
+- [x] 13-2: _[Projeto - FrontEnd Online Store]()_
+
+##### Bloco 14: [Testes automatizados com React Testing Library]()
+
+- [x] 14-1: _Primeiros passos_
+- [x] 14-2: _Mocks e Inputs_
+- [x] 14-3: _Mocks e Inputs_
+- [x] 14-4: _[Projeto - Testes em React]()_
+
+##### Bloco 17: [Context API e React Hooks]()
+
+- [x] 17-1: _Context API do React_
+- [x] 17-2: _useState e useContext_
+- [x] 17-3: _useEffect e Hooks customizados_
+- [x] 17-4: _[Projeto - StarWars Planets Search em Context API e Hooks]()_
+
+## Desenvolvimento Back-end ✅
+
+##### Bloco 19: [Utilizando Containers]()
+
+- [x] 19-1: _Utilizando Containers - Docker_
+- [x] 19-2: _Manipulação e Criação de Imagens - Docker_
+- [x] 19-3: _Orquestrando Containers com Docker Composer_
+- [x] 19-4: _[Projeto - Lista de Tarefas com Docker]()_
+
+##### Bloco 24: [ORM e Autenticação]()
+
+- [x] 24-1: _Interface da aplicação com o banco de dados_
+- [x] 24-2: _Associations_
+- [x] 24-3: _JWT_
+- [x] 24-4: _Testando APIs com Testes de Integração_
+- [x] 24-5: _[Projeto - API de Blogs]()_
+
+##### Bloco 25: [Deployment]()
+
+- [x] 25-1: _Infraestrutura - Deploy com Heroku_
+- [x] 25-2: _Deploy Docker & Heroku_
+- [x] 25-3: _[Projeto - Stranger Things - Front-End]()_
+- [x] 25-4: _[Projeto - Stranger Things - Back-End]()_
+
+##### Bloco 26: [Componentes com Estado, Eventos e Formulários com React]()
+
+- [x] 11-1: _Componentes com estado e eventos_
+- [x] 11-2: _Formulários no React_
+- [x] 11-3: _[Projeto - Tryunfo]()_
+
+##### Bloco 28: [Projeto TFC]()
+
+- [x] 28-1: _[Projeto - Trybe Futebol Clube]()_
+
+##### Bloco 29: [Introdução a MongoDB]()
+
+- [x] 29-1: _MongoDb - Introdução_
+- [x] 29-2: _Filter Operators_
+- [x] 29-3: _Operadores de Consulta_
+- [x] 29-4: _Updates Simples_
+- [x] 29-5: _Updates Complexos - Arrays_
+- [x] 29-6: _[Projeto - Commerce]()_
+
+##### Bloco 30: [Mongo com Node.js e POO]()
+
+- [x] 30-1: _Mongoose e Arquitetura MSC (Model)_
+- [x] 30-2: _Mongoose e Arquitetura MSC (Service e Controller)_
+- [x] 30-3: _[Projeto - Car Shop]()_
+
+##### Bloco 31: [Componentes com Estado, Eventos e Formulários com React]()
+
+- [x] 31-1: _Componentes com estado e eventos_
+- [x] 31-2: _Formulários no React_
+- [x] 31-3: _[Projeto - Tryunfo]()_
+
+##### Bloco 32: [Masterclass - VPS, CI/CD]()
+
+- [x] 32-1: _VPS_
+- [x] 32-2: _CI/CD_
+
+## Ciência da Computação ✅
+
+##### Bloco 33: [Introdução à Python]()
+
+- [x] 11-1: _Aprendendo Python_
+- [x] 11-2: _Entrada e Saída de Dados_
+- [x] 11-3: _Testes_
+
+##### Bloco 34: [Padrões de Projetos]()
+
+- [x] 11-1: _P.O.O em Python_
+- [x] 11-2: _Padrões - Iterator, Adapter, Strategy_
+- [x] 11-3: _Padrões - Decorator, Observer, Factory_
+
+##### Bloco 35: [Raspagem de Dados]()
+
+- [x] 11-1: _P.O.O em Python_
+- [x] 11-2: _Padrões - Iterator, Adapter, Strategy_
+
+##### Bloco 36: [Algoritmos]()
+
+- [x] 11-1: _Complexidade de Algoritmos_
+- [x] 11-2: _Recursividade e Estratégias para solução de problemas_
+- [x] 11-3: _Algoritmos de ordenação e busca_
+
+##### Bloco 37: [Estrutura de Dados I: Arrays, Lista, Filas e Pilhas]()
+
+- [x] 11-1: _Arquitetura de Computadores_
+- [x] 11-2: _Arquitetura de Redes_
+- [x] 11-3: _Arrays_
+- [x] 11-3: _Arrays_
+- [x] 11-3: _Arrays_
+
+##### Bloco 38: [Estrutura de Dados II: Hashmaps e Sets]()
+
+- [x] 11-1: _Arrays_
+- [x] 11-2: _Set_
